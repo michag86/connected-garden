@@ -5,9 +5,8 @@ Documentation
 - [Dienst zum Überwachen des Datenverbrauchs](Datenverbrauch.md)
 - [Dienst zum Empfang von SMS](SMS-Empfang.md)
 
-Kommunikations-Übersicht:
-
-```bash
+communication overview
+```
            +----------------+    +----------------+    +----------------------+
            | Openhab-Client | -> | Openhab-Server | -> | MQTT-Server (Master) |
            +----------------+    +----------------+    +----------------------+
